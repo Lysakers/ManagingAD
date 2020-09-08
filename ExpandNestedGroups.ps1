@@ -14,7 +14,7 @@
 
 
 #Logging module
-Import-Module C:\CommonPSModules\LoggingFunction.psm1
+Import-Module LoggingFunction.psm1
 
 #Enable logging?
 [SWITCH]$logging = $true
